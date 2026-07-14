@@ -1,0 +1,12 @@
+{
+  "name": "cultural-seeder-v3",
+  "private": true,
+  "version": "1.0.0",
+  "description": "文化种草机 v3.0 高保真 H5 Demo",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check model.js && node --test",
+    "test": "node --test"
+  }
+}

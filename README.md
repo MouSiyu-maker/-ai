@@ -1,6 +1,3 @@
-# -ai
-ai工作流探索存档
-[README.md](https://github.com/user-attachments/files/30005528/README.md)
 # 文化种草机 v3.0
 
 一个面向 C 端游客的文化旅行 AI Agent H5 Demo。项目通过“种草内容、古画解码、体验推荐、个人沉淀”串联文化兴趣到可执行行程，适合用于产品设计汇报、交互链路验证和后续工程化改造。
